@@ -1,0 +1,15 @@
+Nama: kent
+Berat Badan: 80
+Tinggi Badan: 170
+Hasil: ANDA OVERWEIGHT
+
+Nama: sarian
+Berat Badan: 60
+Tinggi Badan: 175
+Hasil: BERAT BADAN ANDA IDEAL
+
+Nama: mimi
+Berat Badan: 40
+Tinggi Badan: 170
+Hasil: ANDA TERLALU KURUS
+
